@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    height: 100vh;
+    width: 100%;
+  
+}
+.comp-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+}
